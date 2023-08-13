@@ -1,0 +1,18 @@
+body{
+    background-image: url(img/tlo.png);
+}
+
+#bombel img{
+    width: 400px;
+    height: 400px;
+}
+#bombel img:hover{
+    scale:120%;
+}
+#bombel{
+    margin-top:150px;
+    width: 450px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
